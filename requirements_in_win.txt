@@ -1,6 +1,3 @@
-requests
-websocket-client
-loguru
-pynostr
-nostr-sdk
-web3
+pandas
+selenium==3.141.0
+threading
